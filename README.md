@@ -6,17 +6,6 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
 
 - 🌱 Languages and Tools:
   
-
-
-<a href="https://www.php.net/manual-lookup.php?pattern=https%3A%2F%2Fwww.java.com%2Fen%2F&lang=en&scope=404quickref">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP Website" width="100" />
-</a>
-
-<a href="https://www.w3schools.com/html/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML Website" width="100" />
-</a>
-
-
 <a href="https://www.learn-c.org/">
     <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
