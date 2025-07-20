@@ -9,20 +9,27 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
   <a href="https://www.learn-c.org/">
     <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
-  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="IMAGE_URL" alt="Image description" width="100" />
+  
+  <a href="https://www.python.org/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw3FoOkRO1YRKO5PhpBAKvPK&ust=1753098362447000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjWzruuy44DFQAAAAAdAAAAABAE" alt="Python Website" width="100" />
   </a>
-  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="IMAGE_URL" alt="Image description" width="100" />
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
-  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="IMAGE_URL" alt="Image description" width="100" />
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
-  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="IMAGE_URL" alt="Image description" width="100" />
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
-  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="IMAGE_URL" alt="Image description" width="100" />
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
+  </a>
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
+  </a>
+  <a href="https://www.learn-c.org/">
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
 
   
