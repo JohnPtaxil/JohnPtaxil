@@ -7,10 +7,9 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
 - 🌱 Languages and Tools:
   
   <a href="https://www.cprogramming.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="100"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg](https://www.google.com/imgres?q=C%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F19%2FC_Logo.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Logo.png&docid=HjT_xQUTge1kDM&tbnid=67Iu-kdbv9Y8xM&vet=12ahUKEwiBh_fTrMuOAxVNUkEAHb-fEksQM3oECAsQAA..i&w=360&h=405&hcb=2&ved=2ahUKEwiBh_fTrMuOAxVNUkEAHb-fEksQM3oECAsQAA)" width="100"/>
   </a>
-
-  https://www.cprogramming.com/
+  
   
 - 📫 Contacts:
   - Email: (C23380086@mytudublin.ie
