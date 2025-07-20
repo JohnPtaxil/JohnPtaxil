@@ -4,7 +4,11 @@
 
 I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/) 👨‍💻
 
-- 🌱 Languages and Tools: [![Visit CProgramming](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)](https://www.cprogramming.com/) 
+- 🌱 Languages and Tools:
+  
+  <a href="https://www.cprogramming.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="100"/>
+  </a>
 
   https://www.cprogramming.com/
   
