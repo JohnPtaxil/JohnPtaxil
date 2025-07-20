@@ -7,8 +7,24 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
 - 🌱 Languages and Tools:
   
   <a href="https://www.learn-c.org/">
-    <img width="100" alt="image" src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" />
+    <img src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" alt="C Website" width="100" />
   </a>
+  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="IMAGE_URL" alt="Image description" width="100" />
+  </a>
+  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="IMAGE_URL" alt="Image description" width="100" />
+  </a>
+  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="IMAGE_URL" alt="Image description" width="100" />
+  </a>
+  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="IMAGE_URL" alt="Image description" width="100" />
+  </a>
+  <a href="SITE_LINK" target="_blank" rel="noopener noreferrer">
+    <img src="IMAGE_URL" alt="Image description" width="100" />
+  </a>
+
   
   
 - 📫 Contacts:
