@@ -6,7 +6,7 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
 
 - 🌱 Languages and Tools:
   
-  <a href="https://www.cprogramming.com/">
+  <a href="[https://www.cprogramming.com/](https://www.learn-c.org/)">
     <img width="100" alt="image" src="https://github.com/user-attachments/assets/2ccfc813-4aab-4605-9edb-1623ead50983" />
   </a>
   
