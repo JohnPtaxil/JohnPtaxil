@@ -1,5 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4350b660-3ce4-4eae-80eb-18def8576848" />
-## Hi There! 👋 
+
+# Hi There! 👋 
 
 I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/) 👨‍💻
 
