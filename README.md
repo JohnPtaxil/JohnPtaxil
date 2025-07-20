@@ -37,12 +37,15 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
   <a href="https://www.mysql.com/">
     <img src="https://camo.githubusercontent.com/c2453c4efd99d042dbae8deb76e2937554f1f5fe3ec73c5db6013af715ee2628/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" width="50" />
   </a>
+
+
   
 - 📫 Contacts:
   - Email: (C23380086@mytudublin.ie
   - [LinkedIn](https://www.linkedin.com/in/john-patacsil-5a66602b4/)
-    
-- 😄 Pronouns: He/Him
+  
+
+
 
 - 🎯 Interests:
   - Logic-driven coding & problem solving
@@ -50,3 +53,8 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
   - System-based websites (e.g. library systems)
   - Functional web apps (e.g. weather tools)
   - Interactive game development
+ 
+
+- 🚀 GitHub Statistics:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnPtaxil&show_icons=true&theme=radical)
+
