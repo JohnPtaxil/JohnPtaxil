@@ -56,5 +56,6 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
  
 
 - 🚀 GitHub Statistics:
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnPtaxil&show_icons=true&theme=radical)
 
