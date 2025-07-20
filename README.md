@@ -7,7 +7,7 @@ I'm a third-year Computer Science student at [TU Dublin – Grangegorman](https:
 - 🌱 Languages and Tools:
   
   <a href="https://www.cprogramming.com/">
-    <img width="212" height="238" alt="image" src="https://github.com/user-attachments/assets/1758cc49-8dea-4a8e-974c-953061afebc4" width="100"/>
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1758cc49-8dea-4a8e-974c-953061afebc4"/>
   </a>
   
   
